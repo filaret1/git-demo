@@ -14,3 +14,4 @@
 
      git config --global user.email “vitali_Shulha@epam.com"
 Дописываем строчки
+еще раз дописали
